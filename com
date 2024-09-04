@@ -1,1 +1,1 @@
-systeminfo
+sleep 60000
