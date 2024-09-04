@@ -1,1 +1,1 @@
-whoami /priv
+sleep 60000
